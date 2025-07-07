@@ -15,6 +15,7 @@
   }
   #info {
     width: 50%;
+    height: 220px;
   }
   #contact {
     user-select: none;
